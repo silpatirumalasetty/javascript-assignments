@@ -13,4 +13,4 @@ Input - ["firstName", "Yash", "lastName": "Goyal"]
 Output - { firstName: "Yash", lastName: "Goyal" }
 ```
 
-Run ```npm run test:file create_object``` to test your code
+Run ````` to test your code
